@@ -3,7 +3,9 @@ ffsgf<p align="center">
     <img src="./naming-cheatsheet.png" alt="Naming cheatsheet" />
   </a>
 </p>
-f
+
+=======
+rrr
 # Naming cheatsheet
 
 - [English language](#english-language)
